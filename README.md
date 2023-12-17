@@ -1,4 +1,4 @@
-[![MasterHead](https://subzdesigns.com/)]
+[![MasterHead](https://www.internetcreation.ne)]
 <h1 align="center">Hi 👋, I'm Sanjay Kumar Shukla</h1>
 <h3 align="center">A passionate full stack web development from India</h3>
 
