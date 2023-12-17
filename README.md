@@ -1,4 +1,4 @@
-[![MasterHead](https://www.internetcreation.ne)]
+[![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)]
 <h1 align="center">Hi 👋, I'm Sanjay Kumar Shukla</h1>
 <h3 align="center">A passionate full stack web development from India</h3>
 
