@@ -1,4 +1,4 @@
-[![MasterHead](https://negliadesign.com/wordpress/assets/Website-Development-feature3.001.jpg)]
+[![MasterHead](https://github.com/Alireza-mz/Alireza-mz)]
 <h1 align="center">Hi 👋, I'm Sanjay Kumar Shukla</h1>
 <h3 align="center">A passionate full stack web development from India</h3>
 
