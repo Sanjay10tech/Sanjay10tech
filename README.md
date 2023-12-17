@@ -1,4 +1,4 @@
-https://camo.githubusercontent.com/63d7d42c36c970acc80e9a44e97d7ec53bab0d0dfd14d94c3f6cf0ff234c4961/68747470733a2f2f72696368657374736f66742e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f30342f7765622d646576656c6f706d656e742d62616e6e65722e6a7067
+
 <h1 align="center">Hi 👋, I'm Sanjay Kumar Shukla</h1>
 <h3 align="center">A passionate full stack web development from India</h3>
 
