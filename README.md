@@ -1,3 +1,4 @@
+![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
 <h1 align="center">Hi 👋, I'm SANJAY KUMAR SHUKLA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
