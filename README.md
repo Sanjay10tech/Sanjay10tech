@@ -1,6 +1,6 @@
 ![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
 <h1 align="center">Hi 👋, I'm SANJAY KUMAR SHUKLA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Development[MEARN]and DevOps from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanjay10_shukla" target="blank"><img src="https://img.shields.io/twitter/follow/sanjay10_shukla?logo=twitter&style=for-the-badge" alt="sanjay10_shukla" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development And DSA ,Flutter, APIs,**
+- 🌱 I’m currently learning **Full Stack Web Development[MEARN] And DSA ,DevOps, APIs,Data Science,**
 
 - 📫 How to reach me **sanjayshukla9589@gmail.com**
 
