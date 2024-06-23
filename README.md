@@ -1,15 +1,6 @@
 ![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
 <h1 align="center">Hi 👋, I'm SANJAY KUMAR SHUKLA</h1>
 <h3 align="center">A passionate Full Stack Web Development[MEARN]and DevOps from India</h3>
-- 🌱 I’m currently learning **Full Stack Web Development[MEARN] And DSA ,DevOps, APIs,Data Science,**
-
-- 👨‍💻 All of my projects are available at [https://sanjay-shukla-portfolio.netlify.app/](https://sanjay-shukla-portfolio.netlify.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@sanjayshukla9589](https://medium.com/@sanjayshukla9589)
-
-- 📫 How to reach me **sanjayshukla9589@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
