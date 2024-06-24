@@ -1,14 +1,9 @@
 ![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
 <h1 align="center">Hi 👋, I'm SANJAY KUMAR SHUKLA</h1>
 <h3 align="center">A passionate Full Stack Web Development[MEARN]and DevOps from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay10tech&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay10tech" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay10tech&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay10tech" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay10tech" alt="sanjay10tech" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sanjay10_shukla" target="blank"><img src="https://img.shields.io/twitter/follow/sanjay10_shukla?logo=twitter&style=for-the-badge" alt="sanjay10_shukla" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development[MEARN] And DSA ,DevOps, APIs,Data Science,**
 
@@ -19,6 +14,13 @@
 - 📫 How to reach me **sanjayshukla9589@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay10tech" alt="sanjay10tech" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/sanjay10_shukla" target="blank"><img src="https://img.shields.io/twitter/follow/sanjay10_shukla?logo=twitter&style=for-the-badge" alt="sanjay10_shukla" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -86,8 +88,8 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=Data science " width="48" height="48" alt="Laravel" />
-      <br>Data science 
+        <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Laravel" />
+      <br>Eclipse
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -110,6 +112,8 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
+   </tr>
+  <tr>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
@@ -119,28 +123,39 @@
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
-            <td align="center" width="96">
+
+
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-              <td align="center" width="96">
-        <img src="**********************************=" width="48" height="48" alt="WordPress" />
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=Git Bash" width="48" height="48" alt="Vue" />
-      <br>Git Bash
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java " />
+      <br>Java
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=DevOps" width="48" height="48" alt="Sass" />
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=DevOps" width="48" height="48" alt="DevOps" />
       <br>DevOps
     </td>
-              </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="PostgreSQL" />
-      <br>
     </td>
- </tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="DockerL" />
+ <br>
+      Docker
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+  </tr>
 </table>
 <br><br>
 
