@@ -1,5 +1,5 @@
 ![MasterHead](https://fashionjewellery21.com/wp-content/uploads/elementor/thumbs/f27e3f46-dee4-48fa-85d7-477e27a3302f-qyo8z3lqkue9m7wiekmm2kp0k6zgdmglu3zvnqm58y.png)
-)
+
 <h1 align="center">Hi 👋, I'm SANJAY KUMAR SHUKLA</h1>
 <h3 align="center">A passionate Full Stack Web Development[MEARN]and DevOps from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay10tech&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay10tech" /> </p>
