@@ -1,4 +1,5 @@
-![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
+![MasterHead](![freepik__expand__77611](https://github.com/user-attachments/assets/fce516e3-5683-4c0b-978f-42baf389b03e)
+)
 <h1 align="center">Hi 👋, I'm SANJAY KUMAR SHUKLA</h1>
 <h3 align="center">A passionate Full Stack Web Development[MEARN]and DevOps from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay10tech&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay10tech" /> </p>
