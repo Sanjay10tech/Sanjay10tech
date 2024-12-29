@@ -1,4 +1,4 @@
-![MasterHead](![freepik__expand__77611](https://github.com/user-attachments/assets/fce516e3-5683-4c0b-978f-42baf389b03e)
+![MasterHead](https://fashionjewellery21.com/wp-content/uploads/elementor/thumbs/f27e3f46-dee4-48fa-85d7-477e27a3302f-qyo8z3lqkue9m7wiekmm2kp0k6zgdmglu3zvnqm58y.png)
 )
 <h1 align="center">Hi 👋, I'm SANJAY KUMAR SHUKLA</h1>
 <h3 align="center">A passionate Full Stack Web Development[MEARN]and DevOps from India</h3>
