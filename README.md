@@ -1,4 +1,4 @@
-![MasterHead](https://fashionjewellery21.com/wp-content/uploads/elementor/thumbs/f27e3f46-dee4-48fa-85d7-477e27a3302f-qyo8z3lqkue9m7wiekmm2kp0k6zgdmglu3zvnqm58y.png)
+![MasterHead](https://media.licdn.com/dms/image/v2/C4E16AQErN5E3sym8SQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1625040595270?e=2147483647&v=beta&t=K7fA5MZkmf1j7609dHQInLYDZ6VEmYeSHlhgOtXK_YA)
 
 <h1 align="center">Hi 👋, I'm SANJAY KUMAR SHUKLA</h1>
 <h3 align="center">A passionate Full Stack Web Development[MEARN]and DevOps from India</h3>
