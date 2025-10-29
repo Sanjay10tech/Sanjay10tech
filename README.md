@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/C4E16AQErN5E3sym8SQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1625040595270?e=2147483647&v=beta&t=K7fA5MZkmf1j7609dHQInLYDZ6VEmYeSHlhgOtXK_YA)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFjlALH1StBcA/profile-displaybackgroundimage-shrink_200_800/B4DZiH64NOH8AY-/0/1754627018707?e=2147483647&v=beta&t=C3Vdt0_J5Udpz6oTfmLKIEDSPMgniEhpBvLqS2Yd1mA)
 
 <h1 align="center">Hi 👋, I'm SANJAY KUMAR SHUKLA</h1>
 <h3 align="center">A passionate Full Stack Web Development[MEARN]and DevOps from India</h3>
