@@ -41,7 +41,7 @@
 <br/>
 
 - 🌱 Currently mastering **Full Stack (MERN), DSA, DevOps, AI/ML & Data Science**
-- 👨‍💻 All projects live at **[My Portfolio](https://sanjay-shukla-portfolio.netlify.app/)**
+- 👨‍💻 All projects live at **[My Portfolio](https://sanjay2025.netlify.app/)**
 - 📝 I write dev articles on **[Medium](https://medium.com/@sanjayshukla9589)**
 - 📫 Reach me at **sanjayshukla9589@gmail.com**
 
