@@ -30,7 +30,7 @@
 
 ```yaml
 👨‍💻  Name      :  Sanjay Kumar Shukla
-📍  Location  :  Indore & Bengaluru, India 🇮🇳
+📍  Location  :  Indore & Bengaluru, India
 🎯  Role      :  Full Stack Dev (MERN) + DevOps + AI/ML
 📚  Learning  :  MERN · DSA · DevOps · APIs
                  Data Science · Machine Learning · AI
