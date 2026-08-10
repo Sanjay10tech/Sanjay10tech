@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img width="100%" src="https://media.licdn.com/dms/image/v2/D4D16AQFjlALH1StBcA/profile-displaybackgroundimage-shrink_200_800/B4DZiH64NOH8AY-/0/1754627018707?e=2147483647&v=beta&t=C3Vdt0_J5Udpz6oTfmLKIEDSPMgniEhpBvLqS2Yd1mA" alt="Banner"/>
+  <img width="100%" src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg" alt="Banner"/>
 </div>
 
 <br/>
