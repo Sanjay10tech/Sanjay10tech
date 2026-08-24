@@ -30,12 +30,6 @@ I work primarily with the **MERN stack** and **Next.js**, and I'm actively expan
 
 I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and practice DSA on [LeetCode](https://leetcode.com/sanjay10_dev/).
 
-| | |
-|---|---|
-| Portfolio | [sanjay2025.netlify.app](https://sanjay2025.netlify.app/) |
-| Email | sanjayshukla9589@gmail.com |
-| Location | Indore & Bengaluru, India |
-
 ---
 
 ## Currently Working On
