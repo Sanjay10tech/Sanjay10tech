@@ -38,7 +38,6 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
 - Data structures & algorithms
 - CI/CD pipelines with **Docker, GitHub Actions, AWS**
 - Machine learning with **Python, TensorFlow, Scikit-learn**
-- Technical writing on [Medium](https://medium.com/@sanjayshukla9589)
 - $\color{red}{\textsf{Freelancing — open for web development, full stack, and DevOps projects}}$
 
 ---
