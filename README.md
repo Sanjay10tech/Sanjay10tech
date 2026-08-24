@@ -46,6 +46,7 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sanjayshu1012" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:sanjayshukla9589@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <a href="https://medium.com/@sanjayshukla9589" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
   <a href="https://leetcode.com/sanjay10_dev/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>&nbsp;
   <a href="https://www.hackerrank.com/profile/sanjay10_dev" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>&nbsp;
