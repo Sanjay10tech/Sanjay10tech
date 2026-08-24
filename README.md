@@ -39,7 +39,7 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
 - CI/CD pipelines with **Docker, GitHub Actions, AWS**
 - Machine learning with **Python, TensorFlow, Scikit-learn**
 - Technical writing on [Medium](https://medium.com/@sanjayshukla9589)
-- **Freelancing** — open for web development, full stack, and DevOps projects
+- $\color{red}{\textsf{Freelancing — open for web development, full stack, and DevOps projects}}$
 
 ---
 
