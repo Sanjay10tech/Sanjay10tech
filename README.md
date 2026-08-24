@@ -277,19 +277,6 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanjay10tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjay10tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay10tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay10tech&theme=tokyo-night&hide_border=true&area=true&height=280" alt="Contribution Graph"/>
 </div>
 
