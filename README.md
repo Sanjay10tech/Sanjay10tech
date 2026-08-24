@@ -293,6 +293,24 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay10tech&theme=tokyo-night&hide_border=true&area=true&height=280" alt="Contribution Graph"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjay10tech&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjay10tech&theme=tokyonight" alt="Top Languages by Repo"/>
+  &nbsp;
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjay10tech&theme=tokyonight" alt="Top Languages by Commit"/>
+</div>
+
+<div align="center">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjay10tech&theme=tokyonight" alt="Stats"/>
+  &nbsp;
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanjay10tech&theme=tokyonight&utcOffset=5.5" alt="Commits per Hour"/>
+</div>
+
 ---
 
 <br/>
