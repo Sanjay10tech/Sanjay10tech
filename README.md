@@ -6,6 +6,10 @@
 
   <br/>
 
+  <img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand"/>
+
+  <br/>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Sanjay+Kumar+Shukla;Full+Stack+Developer+%7C+DevOps+%7C+AI%2FML" alt="Typing SVG"/>
   </a>
@@ -20,9 +24,13 @@
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="assets/animated-line.svg" alt="Animated Divider"/>
+</div>
 
-## About Me
+## 👨‍💻 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
 
 I'm **Sanjay Kumar Shukla** — a full stack developer based in India, focused on building practical and scalable web applications.
 
@@ -30,9 +38,11 @@ I work primarily with the **MERN stack** and **Next.js**, and I'm actively expan
 
 I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and practice DSA on [LeetCode](https://leetcode.com/sanjay10_dev/).
 
----
+<div align="center">
+  <img width="100%" src="assets/animated-line.svg" alt="Animated Divider"/>
+</div>
 
-## Currently Working On
+## 🔭 Currently Working On
 
 - Full stack applications with **React, Next.js, Node.js, MongoDB**
 - Data structures & algorithms
@@ -40,11 +50,13 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
 - Machine learning with **Python, TensorFlow, Scikit-learn**
 - $\color{red}{\textsf{Freelancing — open for web development, full stack, and DevOps projects}}$
 
----
+<div align="center">
+  <img width="100%" src="assets/animated-line.svg" alt="Animated Divider"/>
+</div>
 
-## Connect
+## 🤝 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sanjayshu1012" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:sanjayshukla9589@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <a href="https://medium.com/@sanjayshukla9589" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
@@ -53,11 +65,13 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
   <a href="https://discord.gg/sanjaykumarshukla_59684" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
----
+<div align="center">
+  <img width="100%" src="assets/animated-line.svg" alt="Animated Divider"/>
+</div>
 
-## Tech Stack
+## ⚡ Tech Stack
 
-#### Frontend
+#### 🎨 Frontend
 
 <div align="center">
 <table>
@@ -94,7 +108,7 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
 </table>
 </div>
 
-#### Backend & Databases
+#### 🗄️ Backend & Databases
 
 <div align="center">
 <table>
@@ -135,7 +149,7 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
 </table>
 </div>
 
-#### AI / ML / Data Science
+#### 🤖 AI / ML / Data Science
 
 <div align="center">
 <table>
@@ -176,7 +190,7 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
 </table>
 </div>
 
-#### DevOps & Cloud
+#### ☁️ DevOps & Cloud
 
 <div align="center">
 <table>
@@ -217,7 +231,7 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
 </table>
 </div>
 
-#### Mobile
+#### 📱 Mobile
 
 <div align="center">
 <table>
@@ -238,7 +252,7 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
 </table>
 </div>
 
-#### Tools
+#### 🛠️ Tools
 
 <div align="center">
 <table>
@@ -267,9 +281,17 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
 </table>
 </div>
 
----
+<div align="center">
+  <img width="100%" src="assets/animated-line.svg" alt="Animated Divider"/>
+</div>
 
-## GitHub Stats
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="55%" src="https://streak-stats.demolab.com?user=sanjay10tech&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay10tech&theme=tokyo-night&hide_border=true&area=true&height=280" alt="Contribution Graph"/>
@@ -293,12 +315,22 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
   <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanjay10tech&theme=tokyonight&utcOffset=5.5" alt="Commits per Hour"/>
 </div>
 
----
-
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=churchill&font=default" alt="Dev Quote" width="500"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjay10tech/Sanjay10tech/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjay10tech/Sanjay10tech/output/github-contribution-grid-snake.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/Sanjay10tech/Sanjay10tech/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+  </picture>
+</div>
+
+<div align="center">
+  <img width="100%" src="assets/animated-line.svg" alt="Animated Divider"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=flyIn&layout=churchill&font=default" alt="Dev Quote" width="500"/>
 </div>
 
 <br/>

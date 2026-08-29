@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="14" viewBox="0 0 1200 14" role="img" aria-label="animated gradient divider">
+  <defs>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6E40C9">
+        <animate attributeName="stop-color" values="#6E40C9;#00D9FF;#FF2E97;#6E40C9" dur="2.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#00D9FF">
+        <animate attributeName="stop-color" values="#00D9FF;#FF2E97;#6E40C9;#00D9FF" dur="2.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FF2E97">
+        <animate attributeName="stop-color" values="#FF2E97;#6E40C9;#00D9FF;#FF2E97" dur="2.5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="blur" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+  <rect x="0" y="4" width="1200" height="6" rx="3" fill="url(#glow)" filter="url(#blur)" opacity="0.6"/>
+  <rect x="0" y="4" width="1200" height="6" rx="3" fill="url(#glow)"/>
+</svg>
