@@ -300,19 +300,9 @@ I write about what I learn on [Medium](https://medium.com/@sanjayshukla9589) and
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjay10tech&theme=tokyonight" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjay10tech&theme=tokyonight" alt="Top Languages by Repo"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sanjay10tech&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   &nbsp;
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjay10tech&theme=tokyonight" alt="Top Languages by Commit"/>
-</div>
-
-<div align="center">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjay10tech&theme=tokyonight" alt="Stats"/>
-  &nbsp;
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanjay10tech&theme=tokyonight&utcOffset=5.5" alt="Commits per Hour"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay10tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <br/>
